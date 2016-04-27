@@ -30,3 +30,9 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+# Android created gitignore
+*.iml
+.idea/workspace.xml
+.idea/libraries
+.DS_Store
